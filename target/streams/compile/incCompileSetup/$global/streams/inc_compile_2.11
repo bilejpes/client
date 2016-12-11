@@ -1,0 +1,217 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\scala\Client\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+C:\scala\Client\src\main\scala\Client.scala -> C:\scala\Client\target\scala-2.11\classes\Client$$anonfun$requestGet$1.class
+C:\scala\Client\src\main\scala\Client.scala -> C:\scala\Client\target\scala-2.11\classes\Client$.class
+C:\scala\Client\src\main\scala\Client.scala -> C:\scala\Client\target\scala-2.11\classes\Client.class
+binary dependencies:
+3 items
+C:\scala\Client\src\main\scala\Client.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+C:\scala\Client\src\main\scala\Client.scala -> C:\Users\H&M\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\scala\Client\src\main\scala\Client.scala -> C:\Users\H&M\.ivy2\cache\org.scalaj\scalaj-http_2.11\jars\scalaj-http_2.11-2.3.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+C:\scala\Client\src\main\scala\Client.scala -> Client
+C:\scala\Client\src\main\scala\Client.scala -> Client$
+C:\scala\Client\src\main\scala\Client.scala -> Client$$anonfun$requestGet$1
+used names:
+133 items
+C:\scala\Client\src\main\scala\Client.scala -> &&
+C:\scala\Client\src\main\scala\Client.scala -> +
+C:\scala\Client\src\main\scala\Client.scala -> ++
+C:\scala\Client\src\main\scala\Client.scala -> -
+C:\scala\Client\src\main\scala\Client.scala -> ->
+C:\scala\Client\src\main\scala\Client.scala -> ::
+C:\scala\Client\src\main\scala\Client.scala -> <byname>
+C:\scala\Client\src\main\scala\Client.scala -> <init>
+C:\scala\Client\src\main\scala\Client.scala -> <repeated...>
+C:\scala\Client\src\main\scala\Client.scala -> <repeated>
+C:\scala\Client\src\main\scala\Client.scala -> ==
+C:\scala\Client\src\main\scala\Client.scala -> A
+C:\scala\Client\src\main\scala\Client.scala -> Any
+C:\scala\Client\src\main\scala\Client.scala -> AnyRef
+C:\scala\Client\src\main\scala\Client.scala -> Array
+C:\scala\Client\src\main\scala\Client.scala -> ArrayOps
+C:\scala\Client\src\main\scala\Client.scala -> ArrowAssoc
+C:\scala\Client\src\main\scala\Client.scala -> B
+C:\scala\Client\src\main\scala\Client.scala -> B1
+C:\scala\Client\src\main\scala\Client.scala -> Boolean
+C:\scala\Client\src\main\scala\Client.scala -> BufferedOutputStream
+C:\scala\Client\src\main\scala\Client.scala -> Byte
+C:\scala\Client\src\main\scala\Client.scala -> Char
+C:\scala\Client\src\main\scala\Client.scala -> CharSequence
+C:\scala\Client\src\main\scala\Client.scala -> Client
+C:\scala\Client\src\main\scala\Client.scala -> Exception
+C:\scala\Client\src\main\scala\Client.scala -> File
+C:\scala\Client\src\main\scala\Client.scala -> FileNotFoundException
+C:\scala\Client\src\main\scala\Client.scala -> FileOutputStream
+C:\scala\Client\src\main\scala\Client.scala -> Files
+C:\scala\Client\src\main\scala\Client.scala -> GenTraversableOnce
+C:\scala\Client\src\main\scala\Client.scala -> Http
+C:\scala\Client\src\main\scala\Client.scala -> HttpOption
+C:\scala\Client\src\main\scala\Client.scala -> HttpOptions
+C:\scala\Client\src\main\scala\Client.scala -> HttpRequest
+C:\scala\Client\src\main\scala\Client.scala -> HttpResponse
+C:\scala\Client\src\main\scala\Client.scala -> Int
+C:\scala\Client\src\main\scala\Client.scala -> List
+C:\scala\Client\src\main\scala\Client.scala -> Map
+C:\scala\Client\src\main\scala\Client.scala -> MatchError
+C:\scala\Client\src\main\scala\Client.scala -> Nil
+C:\scala\Client\src\main\scala\Client.scala -> None
+C:\scala\Client\src\main\scala\Client.scala -> Nothing
+C:\scala\Client\src\main\scala\Client.scala -> NumberFormatException
+C:\scala\Client\src\main\scala\Client.scala -> Object
+C:\scala\Client\src\main\scala\Client.scala -> Option
+C:\scala\Client\src\main\scala\Client.scala -> OptionMap
+C:\scala\Client\src\main\scala\Client.scala -> OutputStream
+C:\scala\Client\src\main\scala\Client.scala -> Path
+C:\scala\Client\src\main\scala\Client.scala -> Paths
+C:\scala\Client\src\main\scala\Client.scala -> Predef
+C:\scala\Client\src\main\scala\Client.scala -> Some
+C:\scala\Client\src\main\scala\Client.scala -> Stream
+C:\scala\Client\src\main\scala\Client.scala -> String
+C:\scala\Client\src\main\scala\Client.scala -> StringContext
+C:\scala\Client\src\main\scala\Client.scala -> StringOps
+C:\scala\Client\src\main\scala\Client.scala -> Symbol
+C:\scala\Client\src\main\scala\Client.scala -> T
+C:\scala\Client\src\main\scala\Client.scala -> T0
+C:\scala\Client\src\main\scala\Client.scala -> T1
+C:\scala\Client\src\main\scala\Client.scala -> T2
+C:\scala\Client\src\main\scala\Client.scala -> Throwable
+C:\scala\Client\src\main\scala\Client.scala -> Tuple2
+C:\scala\Client\src\main\scala\Client.scala -> Unit
+C:\scala\Client\src\main\scala\Client.scala -> UnknownHostException
+C:\scala\Client\src\main\scala\Client.scala -> apply
+C:\scala\Client\src\main\scala\Client.scala -> args
+C:\scala\Client\src\main\scala\Client.scala -> asBytes
+C:\scala\Client\src\main\scala\Client.scala -> asInstanceOf
+C:\scala\Client\src\main\scala\Client.scala -> asString
+C:\scala\Client\src\main\scala\Client.scala -> augmentString
+C:\scala\Client\src\main\scala\Client.scala -> body
+C:\scala\Client\src\main\scala\Client.scala -> bos
+C:\scala\Client\src\main\scala\Client.scala -> close
+C:\scala\Client\src\main\scala\Client.scala -> code
+C:\scala\Client\src\main\scala\Client.scala -> connTimeout
+C:\scala\Client\src\main\scala\Client.scala -> connect
+C:\scala\Client\src\main\scala\Client.scala -> contains
+C:\scala\Client\src\main\scala\Client.scala -> continually
+C:\scala\Client\src\main\scala\Client.scala -> exit
+C:\scala\Client\src\main\scala\Client.scala -> f
+C:\scala\Client\src\main\scala\Client.scala -> file
+C:\scala\Client\src\main\scala\Client.scala -> fileContent
+C:\scala\Client\src\main\scala\Client.scala -> fileName
+C:\scala\Client\src\main\scala\Client.scala -> get
+C:\scala\Client\src\main\scala\Client.scala -> head
+C:\scala\Client\src\main\scala\Client.scala -> headers
+C:\scala\Client\src\main\scala\Client.scala -> http
+C:\scala\Client\src\main\scala\Client.scala -> immutable
+C:\scala\Client\src\main\scala\Client.scala -> io
+C:\scala\Client\src\main\scala\Client.scala -> isInstanceOf
+C:\scala\Client\src\main\scala\Client.scala -> isSwitch
+C:\scala\Client\src\main\scala\Client.scala -> java
+C:\scala\Client\src\main\scala\Client.scala -> lastIndexOf
+C:\scala\Client\src\main\scala\Client.scala -> length
+C:\scala\Client\src\main\scala\Client.scala -> list
+C:\scala\Client\src\main\scala\Client.scala -> map
+C:\scala\Client\src\main\scala\Client.scala -> method
+C:\scala\Client\src\main\scala\Client.scala -> net
+C:\scala\Client\src\main\scala\Client.scala -> nio
+C:\scala\Client\src\main\scala\Client.scala -> opt2
+C:\scala\Client\src\main\scala\Client.scala -> options
+C:\scala\Client\src\main\scala\Client.scala -> package
+C:\scala\Client\src\main\scala\Client.scala -> parseArgs
+C:\scala\Client\src\main\scala\Client.scala -> path
+C:\scala\Client\src\main\scala\Client.scala -> postData
+C:\scala\Client\src\main\scala\Client.scala -> printHelp
+C:\scala\Client\src\main\scala\Client.scala -> println
+C:\scala\Client\src\main\scala\Client.scala -> readAllBytes
+C:\scala\Client\src\main\scala\Client.scala -> readTimeout
+C:\scala\Client\src\main\scala\Client.scala -> refArrayOps
+C:\scala\Client\src\main\scala\Client.scala -> removeSlashOrBackSlash
+C:\scala\Client\src\main\scala\Client.scala -> request
+C:\scala\Client\src\main\scala\Client.scala -> requestDel
+C:\scala\Client\src\main\scala\Client.scala -> requestGet
+C:\scala\Client\src\main\scala\Client.scala -> requestPut
+C:\scala\Client\src\main\scala\Client.scala -> response
+C:\scala\Client\src\main\scala\Client.scala -> s
+C:\scala\Client\src\main\scala\Client.scala -> scala
+C:\scala\Client\src\main\scala\Client.scala -> scalaj
+C:\scala\Client\src\main\scala\Client.scala -> source
+C:\scala\Client\src\main\scala\Client.scala -> string
+C:\scala\Client\src\main\scala\Client.scala -> substring
+C:\scala\Client\src\main\scala\Client.scala -> sys
+C:\scala\Client\src\main\scala\Client.scala -> tail
+C:\scala\Client\src\main\scala\Client.scala -> toInt
+C:\scala\Client\src\main\scala\Client.scala -> toList
+C:\scala\Client\src\main\scala\Client.scala -> toString
+C:\scala\Client\src\main\scala\Client.scala -> unary_!
+C:\scala\Client\src\main\scala\Client.scala -> usage
+C:\scala\Client\src\main\scala\Client.scala -> value
+C:\scala\Client\src\main\scala\Client.scala -> write
+C:\scala\Client\src\main\scala\Client.scala -> x
+product stamps:
+3 items
+C:\scala\Client\target\scala-2.11\classes\Client$$anonfun$requestGet$1.class -> lastModified(1481458997241)
+C:\scala\Client\target\scala-2.11\classes\Client$.class -> lastModified(1481458997229)
+C:\scala\Client\target\scala-2.11\classes\Client.class -> lastModified(1481458997057)
+source stamps:
+1 items
+C:\scala\Client\src\main\scala\Client.scala -> hash(5da9a3a7e5c24e6f40d71354c6020ff13771dc06)
+binary stamps:
+3 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> lastModified(1477559357858)
+C:\Users\H&M\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\H&M\.ivy2\cache\org.scalaj\scalaj-http_2.11\jars\scalaj-http_2.11-2.3.0.jar -> lastModified(1459630353000)
+class names:
+3 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> java.lang.Object
+C:\Users\H&M\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.collection.GenTraversableOnce
+C:\Users\H&M\.ivy2\cache\org.scalaj\scalaj-http_2.11\jars\scalaj-http_2.11-2.3.0.jar -> scalaj.http.HttpRequest$
+internal apis:
+1 items
+C:\scala\Client\src\main\scala\Client.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwxRakwgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwXx7THHQABm5vdGlmeXNxAH4ADJU+Qg10AAR3YWl0c3EAfgAM8+TrJXQADSRhc0luc3RhbmNlT2ZzcQB+AAxnpA+3dAAHY29ubmVjdHNxAH4ADEB3zZx0AAZlcXVhbHNzcQB+AAwJe1AodAAFdXNhZ2VzcQB+AAx5lZe3dAAMYXNJbnN0YW5jZU9mc3EAfgAMgrpDBHQAFnJlbW92ZVNsYXNoT3JCYWNrU2xhc2hzcQB+AAyTXT9NdAAMc3luY2hyb25pemVkc3EAfgAM2yAVwnQADSRpc0luc3RhbmNlT2ZzcQB+AAwbz8uFdAAEbWFpbnNxAH4ADKmrqop0AAlub3RpZnlBbGxzcQB+AAxqTDm9dAAMaXNJbnN0YW5jZU9mc3EAfgAMjRqyn3QAAj09c3EAfgAMBC+Q7nQABWNsb25lc3EAfgAMwtclUXQACU9wdGlvbk1hcHNxAH4ADDbz2At0AAh0b1N0cmluZ3NxAH4ADC+SDJt0AAIhPXNxAH4ADBds3j90AAhnZXRDbGFzc3NxAH4ADEOV+6x0AApyZXF1ZXN0R2V0c3EAfgAM5P6D8HQABkNsaWVudHNxAH4ADI6UAWJ0AAJuZXNxAH4ADOSeud10AApyZXF1ZXN0UHV0c3EAfgAMf/KeYHQAAmVxc3EAfgAMdARIOXQACnJlcXVlc3REZWxzcQB+AAxG7DcwdAACIyNzcQB+AAyXsZOEdAAIZmluYWxpemVzcQB+AAx0MWDydAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgBrc3EAfgBmdXEAfgBKAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBQcQB+AFl1cQB+AFoAAAAAc3EAfgBcAHEAfgAjdXEAfgBeAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGp0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBqc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCGdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ac3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AYXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AelsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AanNxAH4AeXQABUFycmF5cQB+AH91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AeXQABlN0cmluZ3NxAH4AfXNxAH4AgHVxAH4AgwAAAANzcQB+AIV0AARqYXZhc3EAfgCFdAAEbGFuZ3EAfgCKc3EAfgBmdXEAfgBKAAAAAHNxAH4AZnVxAH4AngAAAAJzcQB+AHl0AAZPYmplY3RxAH4AonNxAH4AeXQAA0FueXEAfgB/dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVjt1j8WdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAKUM6XHNjYWxhXENsaWVudFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUXamjp+XCTm9A1xNUxgIP8Tdx3AY=
+external apis:
+0 items
+source infos:
+1 items
+C:\scala\Client\src\main\scala\Client.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWO3WPxZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKUM6XHNjYWxhXENsaWVudFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
